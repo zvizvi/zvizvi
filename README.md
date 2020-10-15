@@ -1,11 +1,19 @@
-### Hi there 👋
+[![PayPal][badge_paypal]][paypal_link]
 
 ![zvizvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zvizvi&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvizvi&layout=compact&card_width=445)
+
+[badge_paypal]: https://ionicabizau.github.io/badges/paypal.svg
+[paypal_link]: https://paypal.me/zvizvi
+
+
+
 <!-- ------- -->
 
 <!--
+### Hi there 👋
+
 **zvizvi/zvizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
