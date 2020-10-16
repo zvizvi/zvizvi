@@ -1,4 +1,5 @@
 [![PayPal][badge_paypal]][paypal_link]
+[![BuyMeACoffee][badge_buymeacoffee]][buymeacoffee_link]
 
 ![zvizvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zvizvi&count_private=true&show_icons=true)
 
@@ -6,6 +7,8 @@
 
 [badge_paypal]: https://ionicabizau.github.io/badges/paypal.svg
 [paypal_link]: https://paypal.me/zvizvi
+[badge_buymeacoffee]: ./buymeacoffee.svg
+[buymeacoffee_link]: https://www.buymeacoffee.com/zvizvi
 
 
 
