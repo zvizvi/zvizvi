@@ -1,5 +1,6 @@
 [![PayPal][badge_paypal]][paypal_link]
 [![BuyMeACoffee][badge_buymeacoffee]][buymeacoffee_link]
+[![Website][badge_website]][website_link]
 
 ![zvizvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zvizvi&count_private=true&show_icons=true)
 
@@ -9,7 +10,8 @@
 [paypal_link]: https://paypal.me/zvizvi
 [badge_buymeacoffee]: ./buymeacoffee.svg
 [buymeacoffee_link]: https://www.buymeacoffee.com/zvizvi
-
+[badge_website]: https://img.shields.io/static/v1?label=%F0%9F%8C%90&message=zvizvi.xyz&color=green&style=flat
+[website_link]: https://zvizvi.xyz
 
 
 <!-- ------- -->
