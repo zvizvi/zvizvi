@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvizvi&layout=compact&card_width=445)
 
 [badge_paypal]: https://ionicabizau.github.io/badges/paypal.svg
-[paypal_link]: https://paypal.me/zvizvi
+[paypal_link]: https://paypal.me/zvizvi/5USD
 [badge_buymeacoffee]: ./buymeacoffee.svg
 [buymeacoffee_link]: https://www.buymeacoffee.com/zvizvi
 [badge_website]: https://img.shields.io/static/v1?label=%F0%9F%8C%90&message=zvizvi.xyz&color=green&style=flat
