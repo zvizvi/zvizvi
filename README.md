@@ -25,13 +25,13 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zvizvi&count_private=true&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zvizvi&count_private=true&show_icons=true&theme=github_dark">
   <img alt="zvizvi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zvizvi&count_private=true&show_icons=true">
 </picture>
 </p>
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zvizvi&layout=compact&card_width=445&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zvizvi&layout=compact&card_width=445&theme=github_dark">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zvizvi&layout=compact&card_width=445">
 </picture>
 </p>
