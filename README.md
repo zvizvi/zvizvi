@@ -23,9 +23,18 @@
 <br>
 <h2> GitHub Stats </h2>
 
-![zvizvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zvizvi&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvizvi&layout=compact&card_width=445)
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zvizvi&count_private=true&show_icons=true&theme=dark">
+  <img alt="zvizvi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zvizvi&count_private=true&show_icons=true">
+</picture>
+</p>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zvizvi&layout=compact&card_width=445&theme=dark">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zvizvi&layout=compact&card_width=445">
+</picture>
+</p>
 
 [![PayPal][badge_paypal]][paypal_link]
 [![BuyMeACoffee][badge_buymeacoffee]][buymeacoffee_link]
