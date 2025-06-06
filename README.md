@@ -12,9 +12,10 @@
 <img width="22px" title="Ionic" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ionic.svg">
 <img width="22px" title="Nodejs" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
 <img width="22px" title="Express.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
-<img width="22px" title="Express.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg">
-<img width="22px" title="Express.js" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg">
 <img width="22px" title="Strapi" align="left" src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg">
+<img width="22px" title="PHP" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg">
+<img width="22px" title="Laravel" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg">
+<img width="22px" title="FilamentPHP" align="left" src="https://filamentphp.com/favicon/safari-pinned-tab.svg">
 <img width="22px" title="PostgreSQL" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
 <img width="22px" title="MongoDB" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
 <img width="22px" title="Nginx" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg">
