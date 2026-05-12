@@ -15,7 +15,7 @@
 <img width="22px" title="Strapi" align="left" src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg">
 <img width="22px" title="PHP" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg">
 <img width="22px" title="Laravel" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg">
-<img width="22px" title="FilamentPHP" align="left" src="https://filamentphp.com/favicon/safari-pinned-tab.svg">
+<img width="22px" title="FilamentPHP" align="left" src="https://github.com/user-attachments/assets/a83b4bc2-9a28-4d64-b251-71f071b5098c">
 <img width="22px" title="PostgreSQL" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
 <img width="22px" title="MongoDB" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
 <img width="22px" title="Nginx" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg">
